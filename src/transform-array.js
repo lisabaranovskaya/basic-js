@@ -35,5 +35,3 @@ module.exports = function transform(arr) {
 
 };
 
-module.exports = transform;
-console.log(transform(["--double-next", 1, 1, 1]));
